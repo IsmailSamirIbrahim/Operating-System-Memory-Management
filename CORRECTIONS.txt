@@ -1,0 +1,4 @@
+in map_frame()
+	in case P.T. not found on RAM/PAGE FILE:
+		instead of generating a dummy page fault,
+		we create the page table create_page_table function
